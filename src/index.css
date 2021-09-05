@@ -638,3 +638,15 @@
     display: flex;
     justify-content: space-between;
   }
+
+    /* Pokemon List */
+  
+  .selected {
+z-index: 2;
+color: #fff;
+background-color: var(--main-bg-color);
+border-color: black;
+border-width: 3px;
+  }
+  
+  
